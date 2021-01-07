@@ -1,0 +1,31 @@
+shahbadaiman@gmail.com
+aiman.shahbad@cuelogic.com
+email@example.com
+firstname.lastname@example.com
+email@subdomain.example.com
+firstname+lastname@example.com
+"email"@example.com
+1234567890@example.com
+email@example-one.com
+email@example.name
+email@example.museum
+email@example.co.jp
+firstname-lastname@example.com
+#@%^%#$@#$@#.com
+@example.com
+Joe Smith <email@example.com>
+email.example.com
+email@example@example.com
+あいうえお@example.com
+email@example.com (Joe Smith)
+email@example
+email@example.web
+email@111.222.333.44444
+email@example.com
+Abc.123@example.com
+
+
+example1@org1.com
+example1@org1.co.in
+example2@org1.com
+example2@org2.com

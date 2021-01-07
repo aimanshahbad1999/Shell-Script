@@ -1,0 +1,8 @@
+#!/bin/sh
+
+file="Email.txt"
+while read line;
+do
+
+    echo $line
+done < $file
